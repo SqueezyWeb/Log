@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bf4aaca933315f4ae512fce403e2b79f",
-    "content-hash": "c8cdd6bfb30d6f55cf8f2ebaa3f6d8b8",
+    "hash": "f4aadf0f901c8b887a93af01ae06646c",
+    "content-hash": "3a9958386f5c1f1455035513a541e043",
     "packages": [
         {
             "name": "freyja/exceptions",
