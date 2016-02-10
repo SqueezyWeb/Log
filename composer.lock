@@ -4,9 +4,42 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "53981140c610015500726f9e9873984b",
-    "content-hash": "a3f02bd21f3b282a841ba70c606bc590",
+    "hash": "bf4aaca933315f4ae512fce403e2b79f",
+    "content-hash": "c8cdd6bfb30d6f55cf8f2ebaa3f6d8b8",
     "packages": [
+        {
+            "name": "freyja/exceptions",
+            "version": "v2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SqueezyWeb/Exceptions.git",
+                "reference": "1239ac6378601eb24f68d95dda0090f9dfa28bf9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SqueezyWeb/Exceptions/zipball/1239ac6378601eb24f68d95dda0090f9dfa28bf9",
+                "reference": "1239ac6378601eb24f68d95dda0090f9dfa28bf9",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Freyja\\Exceptions\\": "Lib"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPLv2+"
+            ],
+            "authors": [
+                {
+                    "name": "Gianluca Merlo",
+                    "email": "gianluca@squeezyweb.com"
+                }
+            ],
+            "description": "Simple library of exceptions.",
+            "time": "2016-02-02 17:15:18"
+        },
         {
             "name": "psr/log",
             "version": "dev-master",
